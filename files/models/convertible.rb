@@ -23,7 +23,7 @@ class Convertible < Car
     puts "Top coming down"
     # runs convert method to toggle top to open 
     convert
-    # Car's go_to_speed method
+    # Car's go_to_speed method; sets speed
     super(speed)
   end
 end

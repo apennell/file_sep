@@ -1,0 +1,5 @@
+require_relative 'models/car'
+require_relative 'models/convertible'
+require_relative 'models/fast_car'
+require_relative 'models/toy'
+require 'term/ansicolor'
